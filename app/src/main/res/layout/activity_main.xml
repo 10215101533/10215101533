@@ -19,7 +19,13 @@
         android:layout_width="384dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="50dp"
-        android:text="Seconde Activity"
+        android:text="Second Activity"
         android:textAllCaps="false" />
-
+    <Button
+        android:id="@+id/button"
+        android:layout_width="384dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="counter"
+        android:textAllCaps="false" />
 </LinearLayout>
